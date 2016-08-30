@@ -1,6 +1,6 @@
-var grids = require('./grids')
-var arrayUtil = require('./array-util')
-var tools = require('./tools')
+var grids = require('./lib/grids')
+var arrayUtil = require('./lib/array-util')
+var tools = require('./lib/tools')
 
 var gridString =
 `08 02 22 97 38 15 00 40 00 75 04 05 07 78 52 12 50 77 91 08

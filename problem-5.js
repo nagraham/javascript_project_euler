@@ -1,5 +1,5 @@
-var tools = require('./tools');
-var multiples = require('./multiples');
+var tools = require('./lib/tools');
+var multiples = require('./lib/multiples');
 
 tools.benchmark(function() {
   console.log('Smallest multiple of 20-25:');

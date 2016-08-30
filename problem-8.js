@@ -1,5 +1,5 @@
-var arrayUtil = require('./array-util')
-var tools = require('./tools')
+var arrayUtil = require('./lib/array-util')
+var tools = require('./lib/tools')
 
 var hugeFuckingNumber =
   "73167176531330624919225119674426574742355349194934" +

@@ -1,6 +1,6 @@
-var primes = require('./primes')
-var arrayUtil = require('./array-util')
-var tools = require('./tools')
+var primes = require('./lib/primes')
+var arrayUtil = require('./lib/array-util')
+var tools = require('./lib/tools')
 
 tools.benchmark(function() {
   console.log("warmup");

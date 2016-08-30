@@ -1,4 +1,4 @@
-var primes = require('./primes')
+var primes = require('./lib/primes')
 
 console.log(primes.getPrimeFactors(13195));
 

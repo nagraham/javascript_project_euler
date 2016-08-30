@@ -1,4 +1,4 @@
-var arrayUtil = require('./array-util')
+var arrayUtil = require('./lib/array-util')
 
 // input: an Array of numbers
 // output: the sum of the squares of all numbers in the array
